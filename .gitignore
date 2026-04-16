@@ -1,0 +1,5 @@
+.cache/
+.config/
+.local/
+.bash_history
+*.swp
